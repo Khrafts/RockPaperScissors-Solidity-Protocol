@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "JuanBlanco.solidity",
+  "editor.tabSize": 2,
+  "emmet.triggerExpansionOnTab": true
+}
